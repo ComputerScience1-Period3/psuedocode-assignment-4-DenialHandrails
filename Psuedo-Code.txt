@@ -1,7 +1,21 @@
-Daniel Honrales
+Daniel Honrales & Jireh Ferrer
 3rd Period
-Blackjack
+Go Fish
 
+
+#Single player game
+Game hands you your cards (random integers)
+You ask if the computer has your cards
+	If yes:
+		Take computer card and your card. Add 1 to your score
+	If no:
+		Go fish
+Computer asks you for card
+	If yes:
+		Computer takes your card. Add 1 to their score
+	If no:
+		Go fish
+Repeat until someone wins
 
 The game begins with two people: a dealer and a player.
 The objective of the game is to have a hand of higher value than the other without going over 21.
